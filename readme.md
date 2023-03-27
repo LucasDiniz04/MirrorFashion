@@ -1,0 +1,1 @@
+Este é um projeto de site que simula uma loja de roupas virtual, utilizando HTML, CSS e Javascript.  O mesmo foi usado para obtenção da minha nota final da matéria de Desenvolvimento Web de 2022.2 pela Estácio.s
